@@ -1,0 +1,2 @@
+;; Analyzed by ClojureScript 1.7.170
+{:use-macros nil, :excludes #{}, :name sorter.processing, :imports nil, :requires {petrol.core petrol.core, m sorter.messages, sorter.messages sorter.messages}, :uses {Message petrol.core}, :defs {Message {:impls (sorter.messages/SearchHookID sorter.messages/DirectLane)}}, :require-macros nil, :cljs.analyzer/constants {:seen #{:hooks :hook-id :direct_lane}, :order [:direct_lane :hooks :hook-id]}, :doc nil}
